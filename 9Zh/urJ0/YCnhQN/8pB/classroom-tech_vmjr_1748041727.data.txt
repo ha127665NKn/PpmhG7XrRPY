@@ -16,7 +16,6 @@
                  >>> Display all the workers whose adhaar details have been updated on the system.
                  >>> Display all the details of the workers whose bank account details are not yet updated in the system.
                  >>> Display all the workers who have done overtime this month.
-
          >>  task-3;
                  >>> Display all the workers sorted by date_of_joining latest to earliest.
                  >>> Display all the workers whose gender is female and also rate per day is less than 200/-.
