@@ -9,7 +9,6 @@
 
          >>  task-1;
                  >>> Display all the worker names whose gender is male.
-                 >>> Display all the worker details whose rate per day is between 200-500.
                  >>> Display all the workers whose over time hours are less than 5.
 
          >>  task-2;
